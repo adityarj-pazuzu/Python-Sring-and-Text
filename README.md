@@ -1,2 +1,26 @@
 # Python-Sring-and-Text
-String and Text operations
+
+ Splitting Strings
+ 
+ Matching texts
+ 
+ Searching
+ 
+ Replace
+ 
+ Regex
+ 
+ String concat
+
+# Numbers
+  
+  Rounding
+  
+  Formatting
+  
+  Binary, Octal, Hex and Complex
+  
+  Inf, NaN
+  
+  Randoms
+  
